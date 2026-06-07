@@ -1,0 +1,13 @@
+[package]
+name = "r-tree-rs"
+version = "0.1.0"
+edition = "2021"
+description = "R-tree spatial indexing with R*-tree splits in pure Rust: insertion, deletion, range query, k-NN"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/r-tree-rs"
+keywords = ["rtree", "spatial-index", "range-query", "knn", "algorithm"]
+categories = ["algorithms", "data-structures", "mathematics"]
+authors = ["SuperInstance"]
+readme = "README.md"
+
+[dependencies]
